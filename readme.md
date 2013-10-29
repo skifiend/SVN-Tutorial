@@ -1,5 +1,6 @@
 This is just a brief starting paragraph
 This is second paragraph
+
 | Name    | Colour        | Price         |
 | ------- |:-------------:|--------------:|
 | Thomas  | centered      | right-aligned |
