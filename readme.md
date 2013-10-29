@@ -6,3 +6,6 @@ This is second paragraph
 | Thomas  | centered      | right-aligned |
 | Gordon  | blue          |         £3.56 |
 | Henry   |         green | £2.81         |
+
+This is just another line added within GitHub.
+
